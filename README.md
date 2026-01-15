@@ -1,3 +1,7 @@
+![Web3](https://img.shields.io/badge/Industry-Web3-blueviolet)
+![OpSec](https://img.shields.io/badge/Focus-OpSec_%26_Privacy-success)
+![Network](https://img.shields.io/badge/Tech-Network_Architecture-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 # 🕵️ Архітектура Мультиакінгу: Технічний Огляд Феномену
 
 > ⚠️ **DISCLAIMER / ВІДМОВА ВІД ВІДПОВІДАЛЬНОСТІ**
